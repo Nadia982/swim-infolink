@@ -16,6 +16,18 @@ The target audience are people who are thinking of going swimming, or taking som
 #### Logo
 The logo is positioned in the top left-hand corner in clear, high contrast text, so that visitors can easily identify the site. Clicking on the logo will link the visitor to the homepage. 
 
+#### Navigation bar
+The navigation bar is positioned in the top right-hand corner and is the same on every page for ease of navigation. The active link is has a different background colour to the non-active links, and the background colour of the links changes on hover. The menu changes into a burger bar menu icon for smaller screen sizes. 
+
+#### Background hero image
+The large background hero image of rippling swimming pool waves spans the width of the screen and complements the website's subject matter of swimming pools and water. 
+
+#### Inset image in hero container  
+The inset image in the hero area of a child swimming joyfully illustrates the fun and happiness that swimming can bring.  
+
+#### Hero text 
+The hero text overlaid on the hero image summarises the purpose of the website.
+
 
 
 
